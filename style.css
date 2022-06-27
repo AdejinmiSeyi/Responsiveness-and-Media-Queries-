@@ -90,6 +90,15 @@ input{
     border: none;
     font-weight: 600;
     color: hsl(0, 0%, 97%);
+    
+}
+
+#claim-button:hover{
+    background-color: hsl(154, 59%, 51%);
+    border: none;
+    font-weight: 600;
+    color: hsl(0, 0%, 97%);
+    cursor: pointer;
 }
 
 .login-box p{
